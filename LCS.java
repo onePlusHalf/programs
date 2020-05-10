@@ -1,4 +1,5 @@
 // Longest Common Subsequence in 2 strings
+// Brute Force approach is used in this program
 
 import java.util.*;
 

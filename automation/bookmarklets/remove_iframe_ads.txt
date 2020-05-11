@@ -1,0 +1,10 @@
+javascript:(
+function(){ 
+	var ads = document.getElementsByTagName('iFrame');
+	for(var i = 0;i<ads.length;i++)
+	{
+		ads[i].style.display='none';
+	} 
+})();
+
+

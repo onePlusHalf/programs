@@ -1,0 +1,5 @@
+import java.util.*;
+
+Scanner S = new Scanner(System.in);
+Integer N = S.nextInt();
+String value = S.nextLine();
